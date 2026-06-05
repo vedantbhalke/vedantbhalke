@@ -17,4 +17,5 @@ I'm Vedant, a Comp Sci student at UT Arlington (Exp: May 2028) who loves turning
 
 <img src="https://raw.githubusercontent.com/vedantbhalke/vedantbhalke/snake-output/snake.svg" alt="Snake animation" />
 
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
