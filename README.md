@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Vedant, a Comp Sci student at UT Arlington who loves turning ideas into scalable software. Passionate about full-stack development, problem-solving, and building technology that benefits society. Let's connect and build something great.
+#  About Me:
+I'm Vedant, a Comp Sci student at UT Arlington (Exp: May 2028) who loves turning ideas into scalable software. Passionate about full-stack development, problem-solving, and building technology that benefits society. Let's connect and build something great.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,7 @@ I'm Vedant, a Comp Sci student at UT Arlington who loves turning ideas into scal
 
 ---
 [![](https://komarev.com/ghpvc/?username=vedantbhalke&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/vedantbhalke/vedantbhalke/snake-output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
