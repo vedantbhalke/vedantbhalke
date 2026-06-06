@@ -1,5 +1,7 @@
 #  About Me:
-I'm Vedant, a Comp Sci student at UT Arlington (Exp: May 2028) who loves turning ideas into scalable software. Passionate about full-stack development, problem-solving, and building technology that benefits society. Let's connect and build something great.
+I'm Vedant, a Comp Sci student at UT Arlington (Exp: May 2028) who loves turning ideas into scalable software. Passionate about full-stack development, problem-solving, and building technology that benefits society. 
+
+Let's connect and build something great.
 
 
 ## 🌐 Socials:
