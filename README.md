@@ -15,5 +15,9 @@ I'm Vedant, a Comp Sci student at UT Arlington (Exp: May 2028) who loves turning
 ---
 [![](https://komarev.com/ghpvc/?username=vedantbhalke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/vedantbhalke/vedantbhalke/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    
+  ![snake gif](https://github.com/vedantbhalke/vedantbhalke/blob/output/github-snake-dark.svg)
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
