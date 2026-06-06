@@ -13,7 +13,7 @@ I'm Vedant, a Comp Sci student at UT Arlington (Exp: May 2028) who loves turning
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedantbhalke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vedantbhalke&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantbhalke/vedantbhalke/output/github-contribution-grid-snake-dark.svg">
