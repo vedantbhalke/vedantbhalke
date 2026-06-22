@@ -13,7 +13,6 @@ Let's connect and build something great.
 # 💼 Experience:
  
 ### Software Developer Intern &nbsp;|&nbsp; [Thermax Limited](https://www.thermaxglobal.com) &nbsp;|&nbsp; `May 2025 – August 2025`
-📍 Pune, MH
 - Refactored legacy internal tools using Node.js, Express.js, and MongoDB improving code maintainability and reducing page load times for enterprise workflow applications
 - Optimized REST APIs on AWS Lambda reducing response times by 35% through query optimization and caching
 - Configured AWS CloudWatch monitoring for Lambda functions enabling faster error detection and debugging
